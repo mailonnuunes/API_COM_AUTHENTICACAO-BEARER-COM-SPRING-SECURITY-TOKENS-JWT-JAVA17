@@ -1,0 +1,2 @@
+ALTER TABLE clientes
+MODIFY COLUMN idade INT;
